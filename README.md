@@ -1,4 +1,4 @@
 # todo_js
 
 ***
-Create a easy todo to practise javascript Vanilla
+Create a easy todo to practise Vanilla Javascript
